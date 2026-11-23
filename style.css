@@ -12,14 +12,15 @@ Prototype
  body {
  background: #CE6C47;
  text-align: center;
-   display: flex;
-      align-items: center;
-      justify-content: center;
+   
  }
 
 .content {  
   max-width: 90%;
   margin: auto;
+ display: flex;
+      align-items: center;
+      justify-content: center;
  }
 
  /* Image Application Dropzone */

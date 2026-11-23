@@ -11,9 +11,16 @@ Prototype
 /* HTML styles */
  body {
  background: #CE6C47;
+  font-family: Clues;
  text-align: center;
    
  }
+
+@font-face: 
+font-family: Clues;
+src: url(OldNewspaperTypes.ttf)
+
+
 
 .content {  
   max-width: 90%;

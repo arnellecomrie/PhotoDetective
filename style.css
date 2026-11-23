@@ -10,7 +10,8 @@ Prototype
 
 /* HTML styles */
  body {
- background: `rgb(${r}, ${g}, 150)`;
+ background: #CE6C47;
+ text-align: center
  }
 
 .content {  

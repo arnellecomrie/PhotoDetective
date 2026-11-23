@@ -10,7 +10,7 @@ Prototype
 
 /* HTML styles */
  body {
- background: #ffffff;
+ background: `rgb(${r}, ${g}, 150)`;
  }
 
 .content {  
@@ -21,9 +21,9 @@ Prototype
  /* Image Application Dropzone */
 
     #dropzone {
-      width: 320px;
-      height: 240px;
-      border: 30px dotted #000;
+      width: 800px;
+      height: 600px;
+      border: 30px dotted #241E4E;
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,8 +1,8 @@
 // *****************************
 // Image Subject Detection Application
-// Author Name
-// Date
-// Demo from PROG 102 Code
+// Arnelle Comrie 
+// November 26
+// Photo Detective for PROG 102 Code
 // *****************************
 
 // ============================

@@ -16,6 +16,7 @@ Prototype
  }
 
 @font-face: 
+background: #F49E4C;
 font-family: Clues;
 src: url(OldNewspaperTypes.ttf)
 
@@ -38,7 +39,7 @@ src: url(OldNewspaperTypes.ttf)
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #CE6C47;
+      background: #F49E4C;
       color: #000;
       font-size: large;
       font-weight: bold;

@@ -10,9 +10,9 @@ Prototype
 
 /* HTML styles */
  body {
-  font-family: 'Clues';
+ font-family: 'Clues';
  text-align: center;
-  font-color: #fff;   
+ color: #fff;   
  }
 
 h1 {
@@ -44,7 +44,7 @@ src: url(OldNewspaperTypes.ttf);
       align-items: center;
       justify-content: center;
       background: #F2C57C;
-      color: #000;
+      color: #fff;
       font-size: large;
       font-weight: bold;
      font-family: 'Clues';

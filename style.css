@@ -12,13 +12,14 @@ Prototype
  body {
   font-family: Clues;
  text-align: center;
+  font-color: #fff; 
    
  }
 
 @font-face: 
 background: #F49E4C;
 font-family: Clues;
-src: url(OldNewspaperTypes.ttf)
+src: url(OldNewspaperTypes.ttf);
 
 
 

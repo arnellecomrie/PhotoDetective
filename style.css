@@ -12,9 +12,12 @@ Prototype
  body {
   font-family: Clues;
  text-align: center;
-  font-color: #fff; 
-   
+  font-color: #fff;   
  }
+
+h1 {
+ color: #fff;
+}
 
 @font-face {
 font-family: Clues;

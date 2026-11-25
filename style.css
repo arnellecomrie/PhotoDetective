@@ -16,11 +16,10 @@ Prototype
    
  }
 
-@font-face: 
-background: #F49E4C;
+@font-face {
 font-family: Clues;
-src: url(OldNewspaperTypes.ttf);
-
+src: url (OldNewspaperTypes.ttf);
+}
 
 
 .content {  
@@ -40,7 +39,7 @@ src: url(OldNewspaperTypes.ttf);
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #F49E4C;
+      background: #F2C57C;
       color: #000;
       font-size: large;
       font-weight: bold;

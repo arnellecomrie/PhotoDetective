@@ -39,7 +39,7 @@ src: url(OldNewspaperTypes.ttf);
     #dropzone {
       width: 400px;
       height: 400px;
-      border: 30px dotted #fff; 
+      border: 30px groove #fff; 
       display: flex;
       align-items: center;
       justify-content: center;
